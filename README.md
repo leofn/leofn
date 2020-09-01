@@ -2,7 +2,8 @@
 <p align="center">
 Prof. do ICTI/UFBA</p>
 Coordenador do [Laboratório de Humanidades Digitais da UFBA]:http://www.labhd.ufba.br
-[I'm an inline-style link](https://www.google.com)
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leofn" alt="leofn" /> </p>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350px" />
 
