@@ -7,7 +7,7 @@ Prof. do ICTI/UFBA - Coordenador do <a target="_blank" rel="noopener noreferrer"
 - 💻 Digital Sociology - Social Data Science - Computacional Social Science;
 - 📚 Rstats, CAQDAS, Python;
 - 💬 Pergunte-me sobre qualquer coisa que você quiser!
-- 🎓 Graduando em Ciência, Tecnologia, e Inovação (UFBA);
+- 🎓 <a target="_blank" rel="noopener noreferrer" href="https://orcid.org/0000-0003-2929-1115">Orcid</a></p>;
 
 ### *Languages and Tools:*
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
