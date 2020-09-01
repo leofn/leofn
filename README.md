@@ -1,10 +1,6 @@
 ## <p align="center"> Leonardo F. Nascimento 👋*</p>
 <p align="center">
-Prof. do ICTI/UFBA</p>
-<p>
-Coordenador do [link text itself]: http://www.reddit.com
-
-
+Prof. do ICTI/UFBA - Coordenador do <a target="_blank" rel="noopener noreferrer" href="http://www.labhd.ufba.br/">Laboratório de Humanidades Digtiais da UFBA</a></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leofn" alt="leofn" /> </p>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350px" />
 
