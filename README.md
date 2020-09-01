@@ -1,4 +1,4 @@
-## <p align="center"> Leonardo F. Nascimento 👋*</p>
+## <p align="center"> Leonardo F. Nascimento :robot: </p>
 <p align="center">
 Prof. do ICTI/UFBA - Coordenador do <a target="_blank" rel="noopener noreferrer" href="http://www.labhd.ufba.br/">Laboratório de Humanidades Digtiais da UFBA</a></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leofn" alt="leofn" /> </p>
@@ -7,7 +7,7 @@ Prof. do ICTI/UFBA - Coordenador do <a target="_blank" rel="noopener noreferrer"
 - 💻 Digital Sociology - Social Data Science - Computacional Social Science;
 - 📚 Rstats, CAQDAS, Python;
 - 💬 Pergunte-me sobre qualquer coisa que você quiser!
-- 🎓 <a target="_blank" rel="noopener noreferrer" href="https://orcid.org/0000-0003-2929-1115">Orcid</a></p>;
+- 🎓 <a target="_blank" rel="noopener noreferrer" href="https://orcid.org/0000-0003-2929-1115">Orcid</a></p>
 
 ### *Languages and Tools:*
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
