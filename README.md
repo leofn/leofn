@@ -21,14 +21,13 @@ Prof. do ICTI/UFBA - Coordenador do Laboratório de Humanidades Digitais</p>
 ---
 
  ### <p align="center">*Meus Projetos:*<p/>
- - Análise de Dados -> https://github.com/antoniocruzds/Data-Analysis
- - Web Scraping -> https://github.com/antoniocruzds/Web-Scraping
- - Machine Learning -> https://github.com/antoniocruzds/Machine-Learning
-
+ - Análise de Dados -> 
+ - Web Scraping -> 
+ - Machine Learning -> 
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=antoniocruzds&show_icons=true" alt="antoniocruzds"/>
+<img src="https://github-readme-stats.vercel.app/api?username=leofn&show_icons=true" alt="leofn"/>
 </p>
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -43,5 +42,5 @@ Prof. do ICTI/UFBA - Coordenador do Laboratório de Humanidades Digitais</p>
 
 ---
 
-*<p align="center">Por favor, sinta-se livre para clonar projetos e levantar problemas se você acha que algo poderia ser melhor.</p>*
-### <p align="center">- - - - - *OBRIGADO PELA VISITA!* - - - - -</p>
+*<p align="center">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</p>*
+### <p align="center">- - - - - *TY!* - - - - -</p>
