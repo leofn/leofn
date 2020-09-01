@@ -1,24 +1,7 @@
-### Hi there 👋
-
-<!--
-**leofn/leofn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## <p align="center">*OI, PODE ME CHAMAR DE NETO. 👋*</p>
+## <p align="center"> leofn 👋*</p>
 <p align="center">
-Um rapaz aprendendo e cada vez mais apaixonado pelo mundo da Ciência de Dados</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=antoniocruzds" alt="antoniocruzds" /> </p>
+Prof. do ICTI/UFBA - Coordenador do Laboratório de Humanidades Digitais</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=leofn" alt="leofn" /> </p>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350px" />
 
 - 💻 Aprendiz de Data Science;
