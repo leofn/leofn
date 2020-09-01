@@ -38,7 +38,7 @@ Prof. do ICTI/UFBA - Coordenador do Laboratório de Humanidades Digitais</p>
 
 [twitter]: https://twitter.com/leofn3
 [instagram]: https://instagram.com/labhdufba
-[linkedin]: https://linkedin.com/in/leofn
+[linkedin]: https://linkedin.com/in/leonardo-nascimento-2a6441196
 
 ---
 
