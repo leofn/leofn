@@ -1,6 +1,7 @@
 ## <p align="center"> Leonardo F. Nascimento 👋*</p>
 <p align="center">
 Prof. do ICTI/UFBA</p>
+<p>
 Coordenador do [link text itself]: http://www.reddit.com
 
 
