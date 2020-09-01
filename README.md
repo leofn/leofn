@@ -41,5 +41,5 @@ Prof. do ICTI/UFBA - Coordenador do <a target="_blank" rel="noopener noreferrer"
 
 ---
 
-*<p align="center">%>% %>% %>% %>% %>% %>% %>% %>% %>% %>%< %>% %>% %>% %>% %>%/p>*
+*<p align="center">%>% %>% %>% %>% %>% %>% %>% %>% %>% %>%< %>% %>% %>% %>% %>%</p>*
 ### <p align="center">- - - - - :space_invader::space_invader::space_invader::space_invader: - - - - -</p>
