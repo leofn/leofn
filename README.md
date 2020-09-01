@@ -6,7 +6,7 @@ Prof. do ICTI/UFBA - Coordenador do <a target="_blank" rel="noopener noreferrer"
 
 - 💻 Digital Sociology - Social Data Science - Computacional Social Science;
 - 📚 Rstats, CAQDAS, Python;
-- :factory: 
+- :factory: <a target="_blank" rel="noopener noreferrer" href="http://leofn.com/">Personal Website</a></p>
 - 🎓 <a target="_blank" rel="noopener noreferrer" href="https://orcid.org/0000-0003-2929-1115">Orcid</a></p>
 
 ### *Languages and Tools:*
@@ -18,7 +18,7 @@ Prof. do ICTI/UFBA - Coordenador do <a target="_blank" rel="noopener noreferrer"
 
 ---
 
- ### <p align="center">*Projects:*<p/>
+ ### *Projects:*
  - Qualitative Data Analysis
  - CAQDAS 
  - Web Scraping 
