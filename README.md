@@ -1,6 +1,6 @@
 ## <p align="center"> Leonardo F. Nascimento 👋*</p>
 <p align="center">
-Prof. do ICTI/UFBA - Coordenador do Laboratório de Humanidades Digitais</p>
+Prof. do ICTI/UFBA - [a link](https://github.com/user/repo/blob/branch/other_file.md)</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leofn" alt="leofn" /> </p>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350px" />
 
