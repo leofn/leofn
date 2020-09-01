@@ -5,8 +5,11 @@ Prof. do ICTI/UFBA - Coordenador do <a target="_blank" rel="noopener noreferrer"
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350px" />
 
 - 💻 Digital Sociology - Social Data Science - Computacional Social Science;
+<p>
 - 📚 Rstats, CAQDAS, Python;
+<p>
 - :mortar_board: <a target="_blank" rel="noopener noreferrer" href="https://orcid.org/0000-0003-2929-1115">Orcid</a></p>
+<p>
 - :factory: <a target="_blank" rel="noopener noreferrer" href="http://leofn.com/">Personal Website</a></p>
 
 
