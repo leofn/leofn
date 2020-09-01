@@ -1,13 +1,11 @@
-## <p align="center"> leofn 👋*</p>
+## <p align="center"> Leonardo F. Nascimento 👋*</p>
 <p align="center">
 Prof. do ICTI/UFBA - Coordenador do Laboratório de Humanidades Digitais</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leofn" alt="leofn" /> </p>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350px" />
 
-- 💻 Aprendiz de Data Science;
-- 📚 Sempre buscando conhecimento;
-- ☕ Apaixonado por Café e animais;
-- 📋 Voluntário no ensino de Programação;
+- 💻 Digital Sociology - Social Data Science - Computacional Social Science;
+- 📚 Rstats, CAQDAS, Python;
 - 💬 Pergunte-me sobre qualquer coisa que você quiser!
 - 🎓 Graduando em Ciência, Tecnologia, e Inovação (UFBA);
 
@@ -39,9 +37,9 @@ Prof. do ICTI/UFBA - Coordenador do Laboratório de Humanidades Digitais</p>
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Antoniocruzds
-[instagram]: https://instagram.com/Antoniocruz.ds
-[linkedin]: https://linkedin.com/in/antoniocruzds
+[twitter]: https://twitter.com/leofn3
+[instagram]: https://instagram.com/labhdufba
+[linkedin]: https://linkedin.com/in/leofn
 
 ---
 
