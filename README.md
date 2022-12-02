@@ -1,6 +1,6 @@
-## <p align="center">:robot: Leonardo F. Nascimento :robot:</p>
+## <p align="center">:robot: Prof. Leonardo F. Nascimento :robot:</p>
 <p align="center">
-Prof. do <a target="_blank" rel="noopener noreferrer" href="https://icti.ufba.br/">ICTI/UFBA</a> - Coordenador do <a target="_blank" rel="noopener noreferrer" href="http://www.labhd.ufba.br/">Laboratório de Humanidades Digtiais da UFBA</a></p>
+Computational Social Scientist and Psychologist. I investigate disinformation, hate speech and scientific controversies in social media through NLP techniques and network analysis. </a> Director of <a target="_blank" rel="noopener noreferrer" href="http://www.labhd.ufba.br/"> Digital Humanities Lab at UFBA</a></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leofn" alt="leofn" /> </p>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350px" />
 
