@@ -33,6 +33,7 @@ I coordinate the [Digital Humanities Lab at UFBA (LABHDUFBA)](https://github.com
 | [`sao-lazaro-3d`](https://github.com/leofn/sao-lazaro-3d) | 3D digital twin of UFBA São Lázaro campus — navigable map |
 | [`litreviewR`](https://github.com/leofn/litreviewR) | Automated literature reviews and textual analysis with R |
 | [`CSC_UNB_2023`](https://github.com/leofn/CSC_UNB_2023) | Course: Introduction to Computational Social Science |
+| [`magicLattes`](https://github.com/leofn/magicLattes) | Qualis/SJR/SNIP bibliometric scoring for grad programs — Python port of PontuarLattes |
 | [`LABHDUFBA/social-rag`](https://github.com/LABHDUFBA/social-rag) | Social-RAG: supplementary materials for the PROPOR 2026 paper (prompts, evaluations, samples) |
 
 ### Connect
